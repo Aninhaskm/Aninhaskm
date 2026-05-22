@@ -1,7 +1,7 @@
 # Oi, eu sou a Anna Laura 👋
 
 💻 Analista de Infraestrutura Jr @ BB Tecnologia e Serviços  
-🎓 CST em Análise e Desenvolvimento de Sistemas (GRAN)  
+🎓 Formada em Análise e Desenvolvimento de Sistemas (GRAN)  
 🔐 Focada em Cibersegurança, DevOps e DevSecOps  
 ⚙️ Experiência com automações, containers (Docker) e APIs  
 🌎 PT-BR | EN (intermediário)
